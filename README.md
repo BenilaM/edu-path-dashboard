@@ -52,7 +52,7 @@ Final-year B.Tech AI \& DS | Aspiring Data Analyst
 
 
 
-LinkedIn:https:[//www.linkedin.com/in/benilam/](//www.linkedin.com/in/benilam/)
+LinkedIn:[//www.linkedin.com/in/benilam/](//www.linkedin.com/in/benilam/)
 
 
 
